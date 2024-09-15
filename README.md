@@ -1,5 +1,5 @@
 THIS A SIMPLE PROJECT FOR HTML
 URL PROJECT:
-git@github.com:neithanmervil/simple_cv.git
+https://roadmap.sh/projects/single-page-cv
 GITHUB:
 https://github.com/neithanmervil/simple_cv
